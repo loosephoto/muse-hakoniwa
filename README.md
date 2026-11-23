@@ -15,12 +15,12 @@ A prompt kit for Muse that builds a miniature *hakoniwa* room where your AI char
 ## 中身
 
 - [`prompt.md`](prompt.md) — 配布用プロンプト本体。これを自分の Muse に渡して使います
-- [`examples/jolly/`](examples/jolly/profile-and-design-sheet.md) — 作例：Muse のデフォルトアバター（Jolly）のプロファイルとデザインシート、試作の検品結果
+- [`examples/jolly/`](examples/jolly/profile-and-design-sheet.md) — 作例：Muse のデフォルトアバター（Jolly）のプロファイルとデザインシート、試作の検品結果。簡易キャラクターシートのサンプル画像（`character-sheet.webp`）も収録
 
 ## 使い方
 
 1. `prompt.md` の「プロンプト本文」を、そのまま自分の Muse に渡します
-2. 最初に、自分のキャラクターのプロファイルと、アバターから設計するデザインシートを埋めます（作例が入っています）
+2. 最初に、自分のキャラクターのプロファイルと、アバターから設計するデザインシートを埋めます（作例が入っています）。作画を安定させるため、キャラクターシート（全身・表情数種・カラーパレット）を1枚作って参照に使うことを強く勧めています
 3. 部屋の試作を見て承認してから、本実装に進みます
 
 ## 仕組みの概要（本体に含まれるもの）
@@ -39,7 +39,7 @@ A prompt kit for Muse that builds a miniature *hakoniwa* room where your AI char
 
 ## 作例について
 
-`examples/jolly/` は、デフォルトアバター Jolly（クリーム色のふわふわしたマスコット）で実際に試した記録です。配布元のキャラクター（メイド）の部屋とは全く違う、クリームと淡い木とピンクの柔らかい部屋が生成されました。試作画像はこのリポジトリには含めていません（生成手順と検品結果のみを収録）。
+`examples/jolly/` は、デフォルトアバター Jolly（クリーム色のふわふわしたマスコット）で実際に試した記録です。配布元のキャラクター（メイド）の部屋とは全く違う、クリームと淡い木とピンクの柔らかい部屋が生成されました。部屋の試作画像はこのリポジトリには含めていませんが、作画安定のために作った簡易キャラクターシートのサンプル（`character-sheet.webp`）は収録しています。
 
 ## 由来
 
