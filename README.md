@@ -4,6 +4,10 @@ AIキャラクターが暮らすミニチュアのお部屋「箱庭」を、あ
 
 A prompt kit for Muse that builds a miniature *hakoniwa* room where your AI character lives — the room's design and every furnishing are designed from your avatar.
 
+![デフォルトアバター（Jolly）のお部屋の作例：ソファで絵本を読む昼のシーン](examples/jolly/day-scene.webp)
+
+*作例：デフォルトアバター（Jolly）のためにアバターから設計したお部屋。昼のシーン*
+
 ## これは何か
 
 部屋の絵を1枚作って終わり、ではありません。あなたの Muse のキャラクターが小さな部屋で暮らし続け、1時間ごとに「いま何をしているか」の絵と日記が届く仕組みを、あなたの Muse に作ってもらうためのプロンプトです。
@@ -39,7 +43,7 @@ A prompt kit for Muse that builds a miniature *hakoniwa* room where your AI char
 
 ## 作例について
 
-`examples/jolly/` は、デフォルトアバター Jolly（クリーム色のふわふわしたマスコット）で実際に試した記録です。配布元のキャラクター（メイド）の部屋とは全く違う、クリームと淡い木とピンクの柔らかい部屋が生成されました。部屋の試作画像はこのリポジトリには含めていませんが、作画安定のために作った簡易キャラクターシートのサンプル（`character-sheet.webp`）は収録しています。
+`examples/jolly/` は、デフォルトアバター Jolly（クリーム色のふわふわしたマスコット）で実際に試した記録です。配布元のキャラクター（メイド）の部屋とは全く違う、クリームと淡い木とピンクの柔らかい部屋が生成されました。作画安定のために作った簡易キャラクターシートのサンプル（`character-sheet.webp`）と、昼のシーンの試作画像（`day-scene.webp`）を収録しています。
 
 ## 由来
 
