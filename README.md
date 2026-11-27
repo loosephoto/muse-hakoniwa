@@ -55,3 +55,9 @@ A prompt kit for Muse that builds a miniature *hakoniwa* room where your AI char
 ## 由来
 
 このプロンプトは、実際に運用している「きなこのお部屋」（メイドのキャラクターが雪国の家で暮らし、1時間ごとに様子が届くスペース）から、キャラクター固有の部分を取り除いて一般化したものです。
+
+## ライセンス
+
+MIT License のもとで公開しています。全文は [`LICENSE`](LICENSE) をご覧ください。
+
+This project is released under the MIT License. See [`LICENSE`](LICENSE) for details.
